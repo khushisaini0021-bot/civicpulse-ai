@@ -1,9 +1,7 @@
 # CIVICPULSE---AI
 AI Powered Civic Issue Reporting Platform
 
----
-
-A responsive civic reporting web app built with React + Vite.
+A responsive civic reporting web app built from the supplied hackathon overview decks.
 
 ## Run locally
 
